@@ -615,7 +615,11 @@ a.linkedin-bg:hover {
 	color: #dd4b39;
 }
 a.icon-up-bg:hover {
-	color: #212121;
+	color: #947e7e;
+}
+
+a.phone-bg:hover {
+	color: #609e7c;
 }
 
 .copyright {

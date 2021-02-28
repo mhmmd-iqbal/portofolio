@@ -18,7 +18,7 @@ class Footer extends Component {
 							<a
 								class="icon gplus-bg"
 								href="mailto: mhmmd.iqbal.june@gamil.com"
-								target="_blank"
+								// target="_blank"
 							>
 								<i class="icon-gplus"></i>
 							</a>
@@ -29,6 +29,14 @@ class Footer extends Component {
 								target="_black"
 							>
 								<i class="icon-linkedin"></i>
+							</a>
+
+							<a
+								class="icon phone-bg "
+								href="tel:+6282165678664"
+								// target="_black"
+							>
+								<i class="fa fa-phone"></i>
 							</a>
 						</div>
 						<div class="col-sm-4 col-sm-offset-0 col-xs-6 col-xs-offset-3">
