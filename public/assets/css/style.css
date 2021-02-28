@@ -20,6 +20,8 @@
 	font-style: normal;
 }
 
+@import url("https://use.fontawesome.com/releases/v5.13.0/css/all.css");
+
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
 	font-family: "fontello";
@@ -51,11 +53,14 @@
 .icon-linkedin:before {
 	content: "\f0e1";
 } /* '' */
-.icon-linkedin:before {
-	content: "\f0e1";
-} /* '' */
 .icon-up:before {
 	content: "\f176";
+} /* '' */
+.icon-instagram:before {
+	content: "\f16d";
+} /* '' */
+.icon-phone:before {
+	content: "\f095";
 } /* '' */
 
 /* CUSTOM RESETS
