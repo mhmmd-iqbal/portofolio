@@ -227,11 +227,11 @@ textarea {
 	background: url(../img/hero2.jpg) no-repeat center / cover;
 	height: 100%;
 	width: 100%;
-	min-height: 600px;
+	min-height: 660px;
 }
 
 .hero .container {
-	position: fixed;
+	position: static;
 	height: 100%;
 }
 
@@ -247,7 +247,7 @@ textarea {
 }
 
 .hero .col-md-6:last-child {
-	position: fixed;
+	position: absolute;
 	right: 0;
 	bottom: 0;
 }
@@ -299,7 +299,7 @@ textarea {
 
 /* Section: Skills */
 .section-skills {
-	padding-bottom: 120px;
+	padding-bottom: 0;
 }
 
 .skill + .skill {

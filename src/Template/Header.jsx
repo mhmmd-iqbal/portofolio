@@ -25,7 +25,7 @@ class Header extends Component {
 							</button>
 
 							<a href="#hero" className="site-logo">
-								<img src="./assets/img/logo.png" alt="logo" />
+								{/* <img src="./assets/img/logo.png" alt="logo" /> */}
 							</a>
 						</div>
 

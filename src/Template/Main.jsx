@@ -31,12 +31,12 @@ class Main extends Component {
 
 			educational: [
 				{
-					name: "Polytechnic Negeri Lhokseumawe",
+					name: "Politeknik Negeri Lhokseumawe",
 					status: "Bachelor Degree",
 					year: "2015-2019",
 				},
 				{
-					name: "SMA Negeri 1 Bireuen",
+					name: "Sekolah Menengah Atas Negeri 1 Bireuen",
 					status: "Vocational School",
 					year: "2009-2011",
 				},
@@ -111,7 +111,7 @@ class Main extends Component {
 				},
 				{
 					image: "assets/img/portofolio/simpenmas.jpg",
-					name: "Sistem Manajemen Penelitian dan Pengabdian Masyarakat",
+					name: "SIMPENMAS",
 					id: 6,
 				},
 				{

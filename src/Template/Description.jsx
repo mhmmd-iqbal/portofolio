@@ -6,7 +6,7 @@ class Description extends Component {
 			<div id="hero" className="hero">
 				<div className="container">
 					<div className="row">
-						<div className="col-md-6 text-right">
+						<div className="col-md-6 text-left">
 							<h1>Muhammad Iqbal</h1>
 							<div className="page-scroll">
 								<p className="job-title">Full Stack Developer</p>
