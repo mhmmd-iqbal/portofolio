@@ -40,7 +40,7 @@ class Footer extends Component {
 							</a>
 						</div>
 						<div class="col-sm-4 col-sm-offset-0 col-xs-6 col-xs-offset-3">
-							<p class="copyright">{this.state.date} . All Rights Reserved</p>
+							<p class="copyright">Muhammad Iqbal @{this.state.date}</p>
 						</div>
 						<div class="col-sm-4 col-xs-3">
 							<div class="text-right page-scroll">
