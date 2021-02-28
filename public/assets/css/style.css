@@ -145,8 +145,7 @@ textarea {
 
 /* LAYOUT
 ================================================== */
-html,
-body {
+.body {
 	width: 100%;
 	height: 100%;
 	margin: 0;
@@ -225,21 +224,20 @@ body {
 /* HERO
 ================================================== */
 .hero {
-	background: url(../img/hero.jpg) no-repeat center / cover;
+	background: url(../img/hero2.jpg) no-repeat center / cover;
 	height: 100%;
 	width: 100%;
-	min-height: 800px;
+	min-height: 600px;
 }
 
 .hero .container {
-	position: absolute;
+	position: fixed;
 	height: 100%;
 }
 
 .hero .col-md-6:first-child {
-	/* position: absolute; */
+	position: absolute;
 	top: 35%;
-	left: 0;
 	transform: translateY(-50%);
 	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
@@ -249,7 +247,7 @@ body {
 }
 
 .hero .col-md-6:last-child {
-	position: absolute;
+	position: fixed;
 	right: 0;
 	bottom: 0;
 }
