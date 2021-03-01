@@ -148,7 +148,7 @@ class Main extends Component {
 									technology and education enviroment.
 								</p>
 								<a
-									href="https://drive.google.com/file/d/1lelP9JoKXMufefBLT25x0qqiJDDmf1uN/view?usp=sharing"
+									href="https://drive.google.com/file/d/1olOVbUq0TMC2LrtfKcDWVedHMEl7rhNU/view?usp=sharing"
 									className="btn btn-fill"
 									target="_blank"
 									download
